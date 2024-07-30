@@ -4,6 +4,7 @@ Just Sharing some updated and custom scripts for Alti Life Framework
 ## Authors
 * **IceEagle132** - *Script Updater*
 * **altisliferpg** - *Script Website* - [altisliferpg](https://www.altisliferpg.com/)
+* **the-programmer** - *Script Website* - [the-programmer](https://forum.the-programmer.com/)
 
 ## Acknowledgments
 * There May Be Bugs
