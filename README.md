@@ -11,4 +11,4 @@ Just Sharing some updated and custom scripts for Alti Life Framework
 * If your using a modified version of AsYetUntitled you may have to make changes 
 
 ## Contact
-* If you have any issues you con contact me on  Discord **iceeagle132**
+* **Discord** - **iceeagle132**
