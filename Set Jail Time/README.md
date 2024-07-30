@@ -1,10 +1,15 @@
-This was made for **V5.0**
+This was made for Altis Life **V5.0**
 
-Inside your **MasterHandler.hpp** add: **#include "jail_time.hpp"**
+Inside your **MasterHandler.hpp** add:
+```
+#include "jail_time.hpp"
+```
 
-Inside your **Functions.hpp** Inside **class Cop** add: 
+Inside your **Functions.hpp** Inside **class Cop** add:
+```
 class showArrestDialog {};
 class arrestDialog_Arrest {};
+```
 
 
 In your Database make sure to run:
